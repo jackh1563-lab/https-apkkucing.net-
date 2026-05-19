@@ -1,2 +1,6 @@
 # https-apkkucing.net-
-This project is created to share helpful digital content, guides, and resources simply. It is designed to help users learn and find useful information online. For more details and updates, visit: https://apkkucing.net/
+# Apk Kucing
+
+Apk Kucing is a free anime platform where users can watch and explore anime content easily. It provides a simple and smooth experience for anime lovers to enjoy different shows and updates in one place.
+ [https://apkkucing.net/](https://apkkucing.net/)
+
